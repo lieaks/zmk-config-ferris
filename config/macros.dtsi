@@ -1,0 +1,47 @@
+ZMK_MACRO(e_aigu,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(E) &kp E>;
+)
+
+ZMK_MACRO(e_grave,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(GRAVE) &kp E>;
+)
+
+ZMK_MACRO(e_circ,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(I) &kp E>;
+)
+
+ZMK_MACRO(a_grave,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(GRAVE) &kp A>;
+)
+
+ZMK_MACRO(u_grave,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(GRAVE) &kp U>;
+)
+
+ZMK_MACRO(o_circ,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(I) &kp O>;
+)
+
+ZMK_MACRO(i_circ,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(I) &kp I>;
+)
+
+ZMK_MACRO(u_circ,
+    wait-ms = <0>;
+    tap-ms = <5>;
+    bindings = <&kp RA(I) &kp U>;
+)
